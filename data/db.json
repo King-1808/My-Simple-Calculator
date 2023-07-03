@@ -1,0 +1,28 @@
+{ 
+ "calcDisplayData": [
+  {"btnText":"MC", "id": 1,  "btnType": "data-memory",    "btnDispOrder": "1",   "btnClass": "bg-yellow-300 text-black hover:bg-yellow-500"},
+  {"btnText":"M+", "id": 2,  "btnType": "data-memory",    "btnDispOrder": "2",   "btnClass": "bg-yellow-300 text-black hover:bg-yellow-500"},
+  {"btnText":"M-", "id": 3,  "btnType": "data-memory",    "btnDispOrder": "3",   "btnClass": "bg-yellow-300 text-black hover:bg-yellow-500"},
+  {"btnText":"MR", "id": 4,  "btnType": "data-memory",    "btnDispOrder": "4",   "btnClass": "bg-yellow-300 text-black hover:bg-yellow-500"},
+  {"btnText":"AC", "id": 5,  "btnType": "data-all-clear", "btnDispOrder": "5",   "btnClass": "clearAll"},
+  {"btnText":"C",  "id": 6,  "btnType": "data-delete",    "btnDispOrder": "6",   "btnClass": "delete"},
+  {"btnText":"()", "id": 7,  "btnType": "data-other",     "btnDispOrder": "7",   "btnClass": "brackets"},
+  {"btnText":"÷",  "id": 8,  "btnType": "data-operation", "btnDispOrder": "8",   "btnClass": "divide"},
+  {"btnText":"7",  "id": 9,  "btnType": "data-number",    "btnDispOrder": "9",   "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"8",  "id": 10, "btnType": "data-number",    "btnDispOrder": "10",  "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"9",  "id": 11, "btnType": "data-number",    "btnDispOrder": "11",  "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"x",  "id": 12, "btnType": "data-operation", "btnDispOrder": "12",  "btnClass": "multiply"},
+  {"btnText":"4",  "id": 13, "btnType": "data-number",    "btnDispOrder": "13",  "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"5",  "id": 14, "btnType": "data-number",    "btnDispOrder": "14",  "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"6",  "id": 15, "btnType": "data-number",    "btnDispOrder": "15",  "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"-",  "id": 16, "btnType": "data-operation", "btnDispOrder": "16",  "btnClass": "subtract"},
+  {"btnText":"1",  "id": 17, "btnType": "data-number",    "btnDispOrder": "17",  "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"2",  "id": 18, "btnType": "data-number",    "btnDispOrder": "18",  "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"3",  "id": 19, "btnType": "data-number",    "btnDispOrder": "19",  "btnClass": "bg-gray-300 text-black hover:bg-gray-600 hover:text-white"},
+  {"btnText":"+",  "id": 20, "btnType": "data-operation", "btnDispOrder": "20",  "btnClass": "add"},
+  {"btnText":"+/-","id": 21, "btnType": "data-other",     "btnDispOrder": "21",  "btnClass": "negate-sign"},
+  {"btnText":"0",  "id": 22, "btnType": "data-number",    "btnDispOrder": "22",  "btnClass": "number"},
+  {"btnText":".",  "id": 23, "btnType": "data-number",    "btnDispOrder": "23",  "btnClass": "decimal-point"},
+  {"btnText":"=",  "id": 24, "btnType": "data-equals",    "btnDispOrder": "24",  "btnClass": "equal-sign"}
+]
+}
